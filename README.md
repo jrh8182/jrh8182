@@ -5,7 +5,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=jrh8182 alt=jrh8182 /> </p>
 
 <a href="https://github.com/jrh8182">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jrh8182&show_icons=true&include_all_commits=true" />
+  <img align="left" height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jrh8182&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/jrh8182">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrh8182&layout=compact&hide=CSS" />
